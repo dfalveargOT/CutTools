@@ -1,0 +1,7 @@
+CutTool:
+    line_thickness_def: 3
+    multiplier_erase: 4
+    line_thickness_draw: 1
+    overlap: 0.2
+    results_path: ./Results/
+    to_process: ./ToProcess/
